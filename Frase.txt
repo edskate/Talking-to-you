@@ -1,0 +1,4 @@
+what is github, Git is an open source distributed version control system that makes it easy to do things with GitHub on your laptop or
+desktop. This cheat sheet summarizes commonly used instructions via the Git command line for reference.
+fast.
+
